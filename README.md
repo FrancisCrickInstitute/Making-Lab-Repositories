@@ -1,4 +1,4 @@
-# List of Making-Lab-Repositories
+# List of Making Lab Repositories
 
 Board for controlling 4 stepper motors based on Teensy 3.5-3.6\
 https://github.com/FrancisCrickInstitute/4-Stepper-motor-control-board\
