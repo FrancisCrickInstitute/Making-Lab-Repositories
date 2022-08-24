@@ -23,6 +23,9 @@ https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-contr
 UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
 https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform\
 
+3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
+https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope/settings\
+
 60mL Syringe pump\
 https://github.com/FrancisCrickInstitute/MSTPump\
 
