@@ -20,14 +20,15 @@ https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber\
 LCD screen Backlight external control circuit **(In collaboration with Rancz, Iacaruso and Znamenskiy labs)**\
 https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit\
 
+UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
+https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform\
+
 60mL Syringe pump\
 https://github.com/FrancisCrickInstitute/MSTPump\
 
 Single stepper motor controller board based on the Teensy 3.2\
 https://github.com/FrancisCrickInstitute/StepperController\
 
-UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
-https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform\
 
 Content of our Electronics courses\
 https://github.com/FrancisCrickInstitute/Electronics-Course-Material\
