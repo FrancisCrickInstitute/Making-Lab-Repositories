@@ -1,8 +1,5 @@
 # List of Making Lab Repositories
 
-Board for controlling 4 stepper motors based on Teensy 3.5-3.6\
-https://github.com/FrancisCrickInstitute/4-Stepper-motor-control-board\
-
 Cryopup **(In collaboration with the kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup\
 Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1\
@@ -26,12 +23,14 @@ https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform\
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
 https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope/settings\
 
-60mL Syringe pump\
-https://github.com/FrancisCrickInstitute/MSTPump\
-
 Single stepper motor controller board based on the Teensy 3.2\
 https://github.com/FrancisCrickInstitute/StepperController\
 
+Board for controlling 4 stepper motors based on Teensy 3.5-3.6\
+https://github.com/FrancisCrickInstitute/4-Stepper-motor-control-board\
+
+60mL Syringe pump\
+https://github.com/FrancisCrickInstitute/MSTPump\
 
 Content of our Electronics courses\
 https://github.com/FrancisCrickInstitute/Electronics-Course-Material\
