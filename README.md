@@ -1,11 +1,11 @@
 # List of Making Lab Repositories
 
 Cryopup **(In collaboration with the kohl Lab)**\
-https://github.com/FrancisCrickInstitute/Cryopup\
+https://github.com/FrancisCrickInstitute/Cryopup \
 Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1\
 
 OptoPy **(In collaboration with the Prieto-Godino Lab)**\
-https://github.com/PrietoGodinoLab/OptoPi\
+https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2\
 
 Custom Agarose casting device **(In collaboration with the Boulton Lab)**\
