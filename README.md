@@ -8,6 +8,10 @@ OptoPy **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2\
 
+RPM **(In collaboration with the Rancz Lab Lab)**\
+https://ranczlab.github.io/RPM/
+Publication: (Soon)
+
 Custom Agarose casting device **(In collaboration with the Boulton Lab)**\
 https://github.com/FrancisCrickInstitute/Custom-agarose-gel-casting-device\
 
