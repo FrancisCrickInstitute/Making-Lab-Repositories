@@ -12,7 +12,7 @@ RPM **(In collaboration with the Rancz Lab Lab)**\
 https://ranczlab.github.io/RPM/
 Publication: (Soon)
 
-Four channel syringe pump
+Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump
 Publication: (Soon)
 
