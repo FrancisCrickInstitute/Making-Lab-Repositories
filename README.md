@@ -23,7 +23,7 @@ Embryo micro injection chamber **(In collaboration with the Turner Lab)**\
 https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber\
 
 LCD screen Backlight external control circuit **(In collaboration with Rancz, Iacaruso and Znamenskiy labs)**\
-https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit\
+https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit
 
 UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
 https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform\
