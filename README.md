@@ -29,7 +29,7 @@ UV Tape transfer system curing platform **(In collaboration with the Znamenskiy 
 https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform \
 
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
-https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope/settings \
+https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope \
 
 Single stepper motor controller board based on the Teensy 3.2\
 https://github.com/FrancisCrickInstitute/StepperController \
