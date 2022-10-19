@@ -12,6 +12,10 @@ OptoPy **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
 
+<p align="center">
+  <img width="591" height="443" src="https://user-images.githubusercontent.com/54901317/196661741-00aecc96-3f96-46db-b93c-7c6808e56aa7.jpg">
+</p>
+
 RPM **(In collaboration with the Rancz Lab Lab)**\
 https://ranczlab.github.io/RPM/ \
 Publication: (Soon)
