@@ -4,8 +4,6 @@ Cryopup **(In collaboration with the kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup \
 Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1
 
- <img align="left" width="600" height="200" src="https://www.python.org/python-.png">
-
 OptoPy **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
