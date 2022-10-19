@@ -1,6 +1,6 @@
 # List of Making Lab Repositories
 
-From short term to long term projects
+**From short term to long term projects**
 
 Cryopup **(In collaboration with the kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup \
