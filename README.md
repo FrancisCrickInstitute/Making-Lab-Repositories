@@ -17,7 +17,7 @@ https://ranczlab.github.io/RPM/ \
 Publication: (Soon)
 
 <p align="center">
-  <img width="4160" height="3120" src="https://user-images.githubusercontent.com/54901317/196660228-54822408-005b-4d8b-9f07-c4530ccace28.jpg">
+  <img width="591" height="443" src="https://user-images.githubusercontent.com/54901317/196661230-0775372d-3e0c-423e-83ac-64f6362e0107.jpg">
 </p>
 
 Four channel syringe pump\
