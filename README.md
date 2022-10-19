@@ -5,7 +5,7 @@ https://github.com/FrancisCrickInstitute/Cryopup \
 Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1
 
 <p align="center">
-  <img width="600" height="200" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
+  <img width="725" height="380" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
 </p>
 
 OptoPy **(In collaboration with the Prieto-Godino Lab)**\
