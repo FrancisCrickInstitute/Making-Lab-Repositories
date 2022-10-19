@@ -13,7 +13,7 @@ https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
 
 <p align="center">
-  <img width="682" height="384" src="https://user-images.githubusercontent.com/54901317/196664712-fb320424-3cb4-41b1-b08a-c79477400c4c.jpg">
+  <img width="1280" height="720" src="https://user-images.githubusercontent.com/54901317/196665473-d48cae26-2ad8-44b1-8b32-ec0d4be33cdd.jpg">
 </p>
 
 RPM **(In collaboration with the Rancz Lab Lab)**\
