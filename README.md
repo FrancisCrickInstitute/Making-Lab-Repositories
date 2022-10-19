@@ -49,6 +49,10 @@ https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber
 LCD screen Backlight external control circuit **(In collaboration with Rancz, Iacaruso and Znamenskiy labs)**\
 https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit 
 
+<p align="center">
+  <img width="725" height="408" src="https://user-images.githubusercontent.com/54901317/196668180-9bf2372c-2ea5-485c-9d77-37118bbfd59d.png">
+</p>
+
 UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
 https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform 
 
