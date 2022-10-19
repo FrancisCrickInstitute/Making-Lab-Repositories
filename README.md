@@ -75,8 +75,21 @@ https://github.com/FrancisCrickInstitute/StepperController
 Board for controlling 4 stepper motors based on Teensy 3.5-3.6\
 https://github.com/FrancisCrickInstitute/4-Stepper-motor-control-board 
 
+<p align="center">
+  <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196670362-dd3a9577-1237-49e0-aa87-dd54d0af7603.png">
+</p>
+
 60mL Syringe pump\
 https://github.com/FrancisCrickInstitute/MSTPump 
 
+<p align="center">
+  <img width="725" height="314" src="https://user-images.githubusercontent.com/54901317/196670809-770bb694-7cb7-4b7a-a992-c930c571acd0.png">
+</p>
+
 Content of our Electronics courses\
 https://github.com/FrancisCrickInstitute/Electronics-Course-Material 
+
+<p align="center">
+  <img width="600" height="388" src="https://user-images.githubusercontent.com/54901317/196671074-7acce795-0492-4a1b-9deb-f3ceb8789480.png">
+</p>
+
