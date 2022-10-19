@@ -28,6 +28,10 @@ Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
 Publication: (Soon)
 
+<p align="center">
+  <img width="591" height="443" src="https://user-images.githubusercontent.com/54901317/196662109-e91bf6b5-da5a-4dc0-880d-19315ac6f70c.png">
+</p>
+
 Custom Agarose casting device **(In collaboration with the Boulton Lab)**\
 https://github.com/FrancisCrickInstitute/Custom-agarose-gel-casting-device 
 
