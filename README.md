@@ -63,6 +63,10 @@ https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
 https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope 
 
+<p align="center">
+  <img width="612" height="276" src="https://user-images.githubusercontent.com/54901317/196669199-0019b29a-8215-4883-bce8-db24b1b03d86.png">
+</p>
+
 Single stepper motor controller board based on the Teensy 3.2\
 https://github.com/FrancisCrickInstitute/StepperController 
 
