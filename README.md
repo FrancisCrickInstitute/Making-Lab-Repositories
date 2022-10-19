@@ -42,6 +42,10 @@ https://github.com/FrancisCrickInstitute/Custom-agarose-gel-casting-device
 Embryo micro injection chamber **(In collaboration with the Turner Lab)**\
 https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber 
 
+<p align="center">
+  <img width="497" height="597" src="https://user-images.githubusercontent.com/54901317/196667315-06ac6b7b-4056-4beb-a823-83a45ce89cea.png">
+</p>
+
 LCD screen Backlight external control circuit **(In collaboration with Rancz, Iacaruso and Znamenskiy labs)**\
 https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit 
 
