@@ -35,6 +35,10 @@ Publication: (Soon)
 Custom Agarose casting device **(In collaboration with the Boulton Lab)**\
 https://github.com/FrancisCrickInstitute/Custom-agarose-gel-casting-device 
 
+<p align="center">
+  <img width="725" height="333" src="https://user-images.githubusercontent.com/54901317/196666123-fb39e77c-39fa-41c8-a476-86af078faeaf.png">
+</p>
+
 Embryo micro injection chamber **(In collaboration with the Turner Lab)**\
 https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber 
 
