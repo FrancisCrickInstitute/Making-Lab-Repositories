@@ -59,7 +59,7 @@ UV Tape transfer system curing platform **(In collaboration with the Znamenskiy 
 https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform 
 
 <p align="center">
-  <img width="725" height="544" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
+  <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
 </p>
 
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
