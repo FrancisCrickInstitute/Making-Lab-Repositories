@@ -73,7 +73,7 @@ Single stepper motor controller board based on the Teensy 3.2\
 https://github.com/FrancisCrickInstitute/StepperController 
 
 <p align="center">
-  <img width="591" height="433" src="https://user-images.githubusercontent.com/54901317/196672328-3ada078f-b0a2-4137-9c70-98a068833cf3.jpg">
+  <img width="473" height="346" src="https://user-images.githubusercontent.com/54901317/196672328-3ada078f-b0a2-4137-9c70-98a068833cf3.jpg">
 </p>
 
 Board for controlling 4 stepper motors based on Teensy 3.5-3.6\
