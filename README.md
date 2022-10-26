@@ -2,20 +2,20 @@
 
 **From short to long term projects**
 
-Cryopup **(In collaboration with the kohl Lab)**\
-https://github.com/FrancisCrickInstitute/Cryopup \
-Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1
-
-<p align="center">
-  <img width="725" height="380" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
-</p>
-
 OptoPy **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
 
 <p align="center">
   <img width="819" height="460" src="https://user-images.githubusercontent.com/54901317/196665473-d48cae26-2ad8-44b1-8b32-ec0d4be33cdd.jpg">
+</p>
+
+Cryopup **(In collaboration with the kohl Lab)**\
+https://github.com/FrancisCrickInstitute/Cryopup \
+Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1
+
+<p align="center">
+  <img width="725" height="380" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
 </p>
 
 RPM **(In collaboration with the Rancz Lab Lab)**\
