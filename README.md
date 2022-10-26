@@ -97,3 +97,9 @@ https://github.com/FrancisCrickInstitute/Electronics-Course-Material
   <img width="600" height="388" src="https://user-images.githubusercontent.com/54901317/196671074-7acce795-0492-4a1b-9deb-f3ceb8789480.png">
 </p>
 
+Behavioural board
+https://github.com/FrancisCrickInstitute/Behavioural_board
+
+<p align="center">
+  <img width="580" height="326" src="https://user-images.githubusercontent.com/54901317/177177025-56f0a11d-c3ec-42a9-9601-7cabe0dad406.png">
+</p>
