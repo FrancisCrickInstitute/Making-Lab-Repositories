@@ -2,7 +2,7 @@
 
 **From short to long term projects**
 
-OptoPy **(In collaboration with the Prieto-Godino Lab)**\
+OptoPi **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
 
@@ -52,7 +52,7 @@ LCD screen Backlight external control circuit **(In collaboration with Rancz, Ia
 https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit 
 
 <p align="center">
-  <img width="725" height="408" src="https://user-images.githubusercontent.com/54901317/196668180-9bf2372c-2ea5-485c-9d77-37118bbfd59d.png">
+  <img width="507" height="285" src="https://user-images.githubusercontent.com/54901317/196668180-9bf2372c-2ea5-485c-9d77-37118bbfd59d.png">
 </p>
 
 UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
