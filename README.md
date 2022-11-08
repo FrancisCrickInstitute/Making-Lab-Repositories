@@ -62,6 +62,13 @@ https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform
   <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
 </p>
 
+Perfusion system **(In collaboration with the Pachnis lab)**\
+https://github.com/FrancisCrickInstitute/Perfusion_system/tree/main
+
+<p align="center">
+  <img width="640" height="360" src="https://user-images.githubusercontent.com/54901317/200619982-2e75ac0b-8aa6-4814-a139-38b4ca64f949.png">
+</p>
+
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
 https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope 
 
@@ -104,10 +111,5 @@ https://github.com/FrancisCrickInstitute/Behavioural_board
   <img width="580" height="326" src="https://user-images.githubusercontent.com/54901317/177177025-56f0a11d-c3ec-42a9-9601-7cabe0dad406.png">
 </p>
 
-Perfusion system
-https://github.com/FrancisCrickInstitute/Perfusion_system/tree/main
 
-<p align="center">
-  <img width="640" height="360" src="https://user-images.githubusercontent.com/54901317/200619982-2e75ac0b-8aa6-4814-a139-38b4ca64f949.png">
-</p>
 
