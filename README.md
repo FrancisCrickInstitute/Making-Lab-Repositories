@@ -108,6 +108,6 @@ Perfusion system
 https://github.com/FrancisCrickInstitute/Perfusion_system/tree/main
 
 <p align="center">
-  <img width="1280" height="720" src="https://user-images.githubusercontent.com/54901317/200619982-2e75ac0b-8aa6-4814-a139-38b4ca64f949.png">
+  <img width="640" height="360" src="https://user-images.githubusercontent.com/54901317/200619982-2e75ac0b-8aa6-4814-a139-38b4ca64f949.png">
 </p>
 
