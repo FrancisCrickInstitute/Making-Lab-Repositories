@@ -112,4 +112,9 @@ https://github.com/FrancisCrickInstitute/Behavioural_board
 </p>
 
 
+Tetrode plater Breakout board **(In collaboration with the Znamenskiy lab)**\
+https://github.com/FrancisCrickInstitute/Tetrode_plater_breakout_board
 
+<p align="center">
+  <img width="611" height="343" src="https://user-images.githubusercontent.com/54901317/201893587-2e0d8eb7-39f0-4d9b-94cb-8743c3ac5219.png">
+</p>
