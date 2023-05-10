@@ -62,6 +62,13 @@ https://github.com/FrancisCrickInstitute/Perfusion_system/tree/main
   <img width="640" height="360" src="https://user-images.githubusercontent.com/54901317/200619982-2e75ac0b-8aa6-4814-a139-38b4ca64f949.png">
 </p>
 
+Spherical treadmill **(In collaboration with the Znamenskiy lab)**\
+https://github.com/FrancisCrickInstitute/Spherical_treadmill/tree/main
+
+<p align="center">
+  <img width="312" height="416" src="https://user-images.githubusercontent.com/54901317/201933330-da00ba96-b3e9-4cd0-b1f9-665803f8c997.png">
+</p>
+
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
 https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope 
 
@@ -81,13 +88,6 @@ https://github.com/FrancisCrickInstitute/4-Stepper-motor-control-board
 
 <p align="center">
   <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196670362-dd3a9577-1237-49e0-aa87-dd54d0af7603.png">
-</p>
-
-60mL Syringe pump\
-https://github.com/FrancisCrickInstitute/MSTPump 
-
-<p align="center">
-  <img width="725" height="314" src="https://user-images.githubusercontent.com/54901317/196670809-770bb694-7cb7-4b7a-a992-c930c571acd0.png">
 </p>
 
 Content of our Electronics courses\
@@ -112,9 +112,12 @@ https://github.com/FrancisCrickInstitute/Tetrode_plater_breakout_board
   <img width="611" height="343" src="https://user-images.githubusercontent.com/54901317/201893587-2e0d8eb7-39f0-4d9b-94cb-8743c3ac5219.png">
 </p>
 
+60mL Syringe pump\
+https://github.com/FrancisCrickInstitute/MSTPump 
 
-Spherical treadmill **(In collaboration with the Znamenskiy lab)**\
-https://github.com/FrancisCrickInstitute/Spherical_treadmill/tree/main
+<p align="center">
+  <img width="725" height="314" src="https://user-images.githubusercontent.com/54901317/196670809-770bb694-7cb7-4b7a-a992-c930c571acd0.png">
+</p>
 
 UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
 https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform 
@@ -122,9 +125,7 @@ https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform
 <p align="center">
   <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
 </p>
-<p align="center">
-  <img width="312" height="416" src="https://user-images.githubusercontent.com/54901317/201933330-da00ba96-b3e9-4cd0-b1f9-665803f8c997.png">
-</p>
+
 
 
 
