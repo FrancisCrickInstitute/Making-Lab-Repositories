@@ -55,13 +55,6 @@ https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-contr
   <img width="507" height="285" src="https://user-images.githubusercontent.com/54901317/196668180-9bf2372c-2ea5-485c-9d77-37118bbfd59d.png">
 </p>
 
-UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
-https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform 
-
-<p align="center">
-  <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
-</p>
-
 Perfusion system **(In collaboration with the Pachnis lab)**\
 https://github.com/FrancisCrickInstitute/Perfusion_system/tree/main
 
@@ -123,6 +116,12 @@ https://github.com/FrancisCrickInstitute/Tetrode_plater_breakout_board
 Spherical treadmill **(In collaboration with the Znamenskiy lab)**\
 https://github.com/FrancisCrickInstitute/Spherical_treadmill/tree/main
 
+UV Tape transfer system curing platform **(In collaboration with the Znamenskiy lab)**\
+https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform 
+
+<p align="center">
+  <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
+</p>
 <p align="center">
   <img width="312" height="416" src="https://user-images.githubusercontent.com/54901317/201933330-da00ba96-b3e9-4cd0-b1f9-665803f8c997.png">
 </p>
