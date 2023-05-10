@@ -12,7 +12,7 @@ Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
 
 Cryopup **(In collaboration with the kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup \
-Publication: https://www.biorxiv.org/content/10.1101/2022.06.09.495437v1
+Publication: https://www.hardware-x.com/article/S2468-0672(23)00024-X/fulltext
 
 <p align="center">
   <img width="725" height="380" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
