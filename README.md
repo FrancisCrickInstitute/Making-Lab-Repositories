@@ -20,7 +20,7 @@ Publication: https://www.hardware-x.com/article/S2468-0672(23)00024-X/fulltext
 
 RPM **(In collaboration with the Rancz Lab Lab)**\
 https://ranczlab.github.io/RPM/ \
-Publication: (Soon)
+Publication: https://www.biorxiv.org/content/10.1101/2023.05.19.541416v1
 
 <p align="center">
   <img width="532" height="399" src="https://user-images.githubusercontent.com/54901317/196661230-0775372d-3e0c-423e-83ac-64f6362e0107.jpg">
