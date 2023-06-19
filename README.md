@@ -71,9 +71,10 @@ https://github.com/FrancisCrickInstitute/Spherical_treadmill/tree/main
 
 
 Device for background fluorescence reduction **(In collaboration with the Znamenskiy lab)**\
+https://github.com/FrancisCrickInstitute/Photobleaching/tree/main
 
 <p align="center">
-  <img width="1280" height="720" src="https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/1dc68002-dcd4-434a-9a5e-0f09a77edb64">
+  <img width="640" height="360" src="https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/1dc68002-dcd4-434a-9a5e-0f09a77edb64">
 </p>
 
 
