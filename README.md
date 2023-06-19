@@ -69,6 +69,14 @@ https://github.com/FrancisCrickInstitute/Spherical_treadmill/tree/main
   <img width="312" height="416" src="https://user-images.githubusercontent.com/54901317/201933330-da00ba96-b3e9-4cd0-b1f9-665803f8c997.png">
 </p>
 
+
+Device for background fluorescence reduction **(In collaboration with the Znamenskiy lab)**\
+
+<p align="center">
+  <img width="1280" height="720" src="https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/1dc68002-dcd4-434a-9a5e-0f09a77edb64">
+</p>
+
+
 3D printable translational stage for Light Sheet Microscope **(In collaboration with the Lights Microscopy Science and Technology Platform)**\
 https://github.com/FrancisCrickInstitute/3D-printable-translational-stage-Light-Sheet-Microscope 
 
