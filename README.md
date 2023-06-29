@@ -4,7 +4,7 @@
 
 OptoPi **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
-Publication: https://www.biorxiv.org/content/10.1101/2022.07.12.499786v2
+Publication: https://www.sciencedirect.com/science/article/pii/S2468067223000500
 
 <p align="center">
   <img width="819" height="460" src="https://user-images.githubusercontent.com/54901317/196665473-d48cae26-2ad8-44b1-8b32-ec0d4be33cdd.jpg">
