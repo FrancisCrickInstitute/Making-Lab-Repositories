@@ -12,7 +12,7 @@ Publication: https://www.sciencedirect.com/science/article/pii/S2468067223000500
 
 Cryopup **(In collaboration with the kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup \
-Publication: https://www.hardware-x.com/article/S2468-0672(23)00024-X/fulltext
+Publication: https://www.sciencedirect.com/science/article/pii/S246806722300024X
 
 <p align="center">
   <img width="725" height="380" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
