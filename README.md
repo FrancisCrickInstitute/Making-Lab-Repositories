@@ -28,7 +28,7 @@ Publication: https://www.biorxiv.org/content/10.1101/2023.05.19.541416v1
 
 Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
-Publication: (Soon)
+Publication: [(Soon)](https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/blob/main/4_way_syringe_pump.pdf)
 
 <p align="center">
   <img width="725" height="333" src="https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/raw/main/Design%20files/Inventor/Four%20channel%20pump%20assembly%20render%201.png?raw=true">
