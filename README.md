@@ -135,7 +135,7 @@ https://github.com/FrancisCrickInstitute/UV_LED_Curing_platform
   <img width="580" height="435" src="https://user-images.githubusercontent.com/54901317/196668619-49ca38c4-42b5-4602-9e7c-5c9ad1517e82.png">
 </p>
 
-24 well plate imaging system
+24 well plate imaging system\
 https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system
 
 ![WPAIS assembly](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/25832f6b-a1ad-4872-8d3d-0c14bee0bcad)
