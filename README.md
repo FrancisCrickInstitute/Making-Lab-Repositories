@@ -25,10 +25,6 @@ Publication: https://www.biorxiv.org/content/10.1101/2023.05.19.541416v1
 ![Figure 1 (2)](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/70aef2b5-3055-4c9e-a316-34c2efc081f4)
 
 
-<p align="center">
-  <img width="532" height="399" src="https://user-images.githubusercontent.com/54901317/196661230-0775372d-3e0c-423e-83ac-64f6362e0107.jpg">
-</p>
-
 Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
 Publication: https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/blob/main/4_way_syringe_pump.pdf
