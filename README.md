@@ -29,9 +29,8 @@ Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
 Publication: https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/blob/main/4_way_syringe_pump.pdf
 
-<p align="center">
-  <img width="725" height="333" src="https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/raw/main/Design%20files/Inventor/Four%20channel%20pump%20assembly%20render%201.png?raw=true">
-</p>
+![Figure 1](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/e649742d-a720-46a0-a62f-01681817e014)
+
 
 Custom Agarose casting device **(In collaboration with the Boulton Lab)**\
 https://github.com/FrancisCrickInstitute/Custom-agarose-gel-casting-device 
