@@ -20,7 +20,7 @@ Publication: https://www.sciencedirect.com/science/article/pii/S246806722300024X
 
 RPM **(In collaboration with the Rancz Lab Lab)**\
 https://ranczlab.github.io/RPM/ \
-Publication: https://www.biorxiv.org/content/10.1101/2023.05.19.541416v1
+Publication: https://www.sciencedirect.com/science/article/pii/S0165027023002212?via%3Dihub
 
 ![Figure 1 (2)](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/70aef2b5-3055-4c9e-a316-34c2efc081f4)
 
