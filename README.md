@@ -22,8 +22,7 @@ RPM **(In collaboration with the Rancz Lab Lab)**\
 https://ranczlab.github.io/RPM/ \
 Publication: https://www.sciencedirect.com/science/article/pii/S0165027023002212?via%3Dihub
 
-![Figure 1 (2)](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/70aef2b5-3055-4c9e-a316-34c2efc081f4)
-
+![Graphical abstract](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/ef9c62ac-9638-488e-ae55-95798e81a157)
 
 Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
