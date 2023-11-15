@@ -126,11 +126,11 @@ https://github.com/FrancisCrickInstitute/MSTPump
 </p>
 
 
-[//]: # (
-24 well plate imaging system **(In collaboration with Andreia Bernardo)**\
+
+24 well plate imaging system **(In collaboration with Andreia Bernardo)**\ (Soon)
 https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system
 
-![Well plate imaging system](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/19f3b0dc-1523-4169-adef-284b38dc226d) )
+![Well plate imaging system](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/19f3b0dc-1523-4169-adef-284b38dc226d) 
 
 
 
