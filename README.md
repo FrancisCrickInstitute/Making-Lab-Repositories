@@ -125,6 +125,13 @@ https://github.com/FrancisCrickInstitute/MSTPump
   <img width="725" height="314" src="https://user-images.githubusercontent.com/54901317/196670809-770bb694-7cb7-4b7a-a992-c930c571acd0.png">
 </p>
 
+24-Well plate automated imaging system **(In collaboration with Andreia Bernardo)**\
+https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main
+
+![Well plate imaging system](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/33a85f65-de69-4b12-82f3-aced83ba1221)
+
+Publication: https://www.sciencedirect.com/science/article/pii/S2211124723016790?via%3Dihub
+
 
 
 
