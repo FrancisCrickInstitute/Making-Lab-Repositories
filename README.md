@@ -24,6 +24,12 @@ Publication: https://www.sciencedirect.com/science/article/pii/S0165027023002212
 
 ![Graphical abstract](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/ef9c62ac-9638-488e-ae55-95798e81a157)
 
+24-Well plate automated imaging system **(In collaboration with Andreia Bernardo, Marie-Victoire Cosson and Lorenza I. Tsansizi )**\
+https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main
+Publication: https://www.sciencedirect.com/science/article/pii/S2211124723016790?via%3Dihub
+
+![Well plate imaging system](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/33a85f65-de69-4b12-82f3-aced83ba1221)
+
 Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
 Publication: https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/blob/main/4_way_syringe_pump.pdf
@@ -125,11 +131,7 @@ https://github.com/FrancisCrickInstitute/MSTPump
   <img width="725" height="314" src="https://user-images.githubusercontent.com/54901317/196670809-770bb694-7cb7-4b7a-a992-c930c571acd0.png">
 </p>
 
-24-Well plate automated imaging system **(In collaboration with Andreia Bernardo)**\
-https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main
-Publication: https://www.sciencedirect.com/science/article/pii/S2211124723016790?via%3Dihub
 
-![Well plate imaging system](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/33a85f65-de69-4b12-82f3-aced83ba1221)
 
 
 
