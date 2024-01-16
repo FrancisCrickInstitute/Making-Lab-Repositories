@@ -28,7 +28,7 @@ Publication: https://www.sciencedirect.com/science/article/pii/S0165027023002212
 https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main
 Publication: https://www.sciencedirect.com/science/article/pii/S2211124723016790?via%3Dihub
 
-![Well plate imaging system](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/33a85f65-de69-4b12-82f3-aced83ba1221)
+![WIS](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/20c1be36-9942-4a4f-abd4-a1726bcedfec)
 
 Four channel syringe pump\
 https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump \
