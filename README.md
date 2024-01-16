@@ -25,7 +25,7 @@ Publication: https://www.sciencedirect.com/science/article/pii/S0165027023002212
 ![Graphical abstract](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/ef9c62ac-9638-488e-ae55-95798e81a157)
 
 24-Well plate automated imaging system **(In collaboration with Andreia Bernardo, Marie-Victoire Cosson and Lorenza I. Tsansizi )**\
-https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main
+https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main \
 Publication: https://www.sciencedirect.com/science/article/pii/S2211124723016790?via%3Dihub
 
 ![WIS](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/20c1be36-9942-4a4f-abd4-a1726bcedfec)
