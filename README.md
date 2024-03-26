@@ -1,7 +1,5 @@
 # List of Making Lab Repositories
 
-**From short to long term projects**
-
 OptoPi **(In collaboration with the Prieto-Godino Lab)**\
 https://github.com/PrietoGodinoLab/OptoPi \
 Publication: https://www.sciencedirect.com/science/article/pii/S2468067223000500
