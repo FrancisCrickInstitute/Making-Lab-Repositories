@@ -34,8 +34,13 @@ Publication: https://github.com/FrancisCrickInstitute/Four_channel_syringe_pump/
 
 ![Figure 1](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/e649742d-a720-46a0-a62f-01681817e014)
 
+Multichannel photodiode **(In collaboration with the Znamenskiy lab)**\
+https://github.com/FrancisCrickInstitute/Multichannel_photodiode/tree/main
+![Render](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/5394093e-162f-448e-b488-e3c0cd02981b)
+
 
 Custom Agarose casting device **(In collaboration with the Boulton Lab)**\
+
 https://github.com/FrancisCrickInstitute/Custom-agarose-gel-casting-device 
 
 <p align="center">
