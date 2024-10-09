@@ -56,6 +56,7 @@ https://github.com/FrancisCrickInstitute/Embryo-micro-injection-chamber
 
 LCD screen Backlight external control circuit **(In collaboration with Rancz, Iacaruso and Znamenskiy labs)**\
 https://github.com/FrancisCrickInstitute/LCD-screen-Backlight-LED-External-control-circuit 
+https://github.com/FrancisCrickInstitute/Monitor-Blanking-V2/tree/main
 
 <p align="center">
   <img width="507" height="285" src="https://user-images.githubusercontent.com/54901317/196668180-9bf2372c-2ea5-485c-9d77-37118bbfd59d.png">
