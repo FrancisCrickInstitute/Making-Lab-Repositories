@@ -27,11 +27,11 @@ Publication: https://www.sciencedirect.com/science/article/pii/S2468067225000550
 
 ![PhotoNeuro](https://github.com/user-attachments/assets/1a7cf815-a8dc-418a-93bd-5258d207bce5)
 
-PhotoNeuro **(In collaboration with the Iacaruso Lab)**\
+Coliseum **(In collaboration with the Iacaruso Lab)**\
 https://github.com/Iacaruso-lab/Coliseum
 Publication: https://www.biorxiv.org/content/10.1101/2025.02.11.637674v3
 
-
+<img width="853" height="370" alt="Figure 1" src="https://github.com/user-attachments/assets/f932de98-cac3-4200-9936-390e3ee642bf" />
 
 
 24-Well plate automated imaging system **(In collaboration with Andreia Bernardo, Marie-Victoire Cosson and Lorenza I. Tsansizi)**\
