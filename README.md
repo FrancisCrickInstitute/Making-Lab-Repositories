@@ -16,11 +16,23 @@ Publication: https://www.sciencedirect.com/science/article/pii/S246806722300024X
   <img width="725" height="380" src="https://user-images.githubusercontent.com/54901317/196657665-c5a63554-9f1a-4008-a2a4-11ae4f82a6e1.png">
 </p>
 
-RPM **(In collaboration with the Rancz Lab Lab)**\
+RPM **(In collaboration with the Rancz Lab)**\
 https://ranczlab.github.io/RPM/ \
 Publication: https://www.sciencedirect.com/science/article/pii/S0165027023002212?via%3Dihub
 
 ![Graphical abstract](https://github.com/FrancisCrickInstitute/Making-Lab-Repositories/assets/54901317/ef9c62ac-9638-488e-ae55-95798e81a157)
+
+PhotoNeuro **(In collaboration with the Iacaruso and the Znamenskiy Labs)**\
+Publication: https://www.sciencedirect.com/science/article/pii/S2468067225000550
+
+![PhotoNeuro](https://github.com/user-attachments/assets/1a7cf815-a8dc-418a-93bd-5258d207bce5)
+
+PhotoNeuro **(In collaboration with the Iacaruso Lab)**\
+https://github.com/Iacaruso-lab/Coliseum
+Publication: https://www.biorxiv.org/content/10.1101/2025.02.11.637674v3
+
+
+
 
 24-Well plate automated imaging system **(In collaboration with Andreia Bernardo, Marie-Victoire Cosson and Lorenza I. Tsansizi)**\
 https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main \
