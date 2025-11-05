@@ -29,7 +29,7 @@ Publication: https://www.sciencedirect.com/science/article/pii/S2468067225000550
 
 Coliseum **(In collaboration with the Iacaruso Lab)**\
 https://github.com/Iacaruso-lab/Coliseum
-Publication: https://www.biorxiv.org/content/10.1101/2025.02.11.637674v3
+Publication: https://www.nature.com/articles/s41467-025-64600-x
 
 <img width="853" height="370" alt="Figure 1" src="https://github.com/user-attachments/assets/f932de98-cac3-4200-9936-390e3ee642bf" />
 
