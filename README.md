@@ -8,7 +8,7 @@ Publication: https://www.sciencedirect.com/science/article/pii/S2468067223000500
   <img width="819" height="460" src="https://user-images.githubusercontent.com/54901317/196665473-d48cae26-2ad8-44b1-8b32-ec0d4be33cdd.jpg">
 </p>
 
-Cryopup **(In collaboration with the kohl Lab)**\
+Cryopup **(In collaboration with the Kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup \
 Publication: https://www.sciencedirect.com/science/article/pii/S246806722300024X
 
