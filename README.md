@@ -148,8 +148,10 @@ https://github.com/FrancisCrickInstitute/MSTPump
 </p>
 
 
+High-throughput_drosophila_oviposition_preference_assay\
+https://github.com/PrietoGodinoLab/High-throughput_drosophila_oviposition_preference_assay?tab=readme-ov-file
 
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b9743b14-16a0-4ad1-97e2-5562e029f266" />
 
 
 
