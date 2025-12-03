@@ -8,6 +8,12 @@ Publication: https://www.sciencedirect.com/science/article/pii/S2468067223000500
   <img width="819" height="460" src="https://user-images.githubusercontent.com/54901317/196665473-d48cae26-2ad8-44b1-8b32-ec0d4be33cdd.jpg">
 </p>
 
+Coliseum **(In collaboration with the Iacaruso Lab)**\
+https://github.com/Iacaruso-lab/Coliseum \
+Publication: https://www.nature.com/articles/s41467-025-64600-x
+
+<img width="853" height="370" alt="Figure 1" src="https://github.com/user-attachments/assets/f932de98-cac3-4200-9936-390e3ee642bf" />
+
 Cryopup **(In collaboration with the Kohl Lab)**\
 https://github.com/FrancisCrickInstitute/Cryopup \
 Publication: https://www.sciencedirect.com/science/article/pii/S246806722300024X
@@ -26,13 +32,6 @@ PhotoNeuro **(In collaboration with the Iacaruso and the Znamenskiy Labs)**\
 Publication: https://www.sciencedirect.com/science/article/pii/S2468067225000550
 
 ![PhotoNeuro](https://github.com/user-attachments/assets/1a7cf815-a8dc-418a-93bd-5258d207bce5)
-
-Coliseum **(In collaboration with the Iacaruso Lab)**\
-https://github.com/Iacaruso-lab/Coliseum
-Publication: https://www.nature.com/articles/s41467-025-64600-x
-
-<img width="853" height="370" alt="Figure 1" src="https://github.com/user-attachments/assets/f932de98-cac3-4200-9936-390e3ee642bf" />
-
 
 24-Well plate automated imaging system **(In collaboration with Andreia Bernardo, Marie-Victoire Cosson and Lorenza I. Tsansizi)**\
 https://github.com/FrancisCrickInstitute/Well-plate-automated-imaging-system/tree/main \
